@@ -6,4 +6,4 @@ idade: 27}
 const objeto2 = {nome: "Marcelo",
 idade: 39}
 
-console.log(objeto1.nome != objeto2.nome)
+console.log(objeto1.nome !== objeto2.nome)
